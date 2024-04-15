@@ -1,22 +1,39 @@
 {
   "files": {
-    "main.css": "/crai/static/css/main.20d6bfeb.css",
-    "main.js": "/crai/static/js/main.5722cc32.js",
-    "static/js/575.54fb34fe.chunk.js": "/crai/static/js/575.54fb34fe.chunk.js",
-    "static/js/812.aa678ab6.chunk.js": "/crai/static/js/812.aa678ab6.chunk.js",
-    "static/css/695.a9da12ce.chunk.css": "/crai/static/css/695.a9da12ce.chunk.css",
-    "static/js/695.2e92d788.chunk.js": "/crai/static/js/695.2e92d788.chunk.js",
+    "main.css": "/crai/static/css/main.816c2730.css",
+    "main.js": "/crai/static/js/main.8f6450b6.js",
+    "static/js/793.398748ec.chunk.js": "/crai/static/js/793.398748ec.chunk.js",
+    "static/js/812.c64455a8.chunk.js": "/crai/static/js/812.c64455a8.chunk.js",
+    "static/css/135.42dcefa0.chunk.css": "/crai/static/css/135.42dcefa0.chunk.css",
+    "static/js/135.0974d1d9.chunk.js": "/crai/static/js/135.0974d1d9.chunk.js",
+    "static/js/680.97943f77.chunk.js": "/crai/static/js/680.97943f77.chunk.js",
+    "static/js/973.714fb7fa.chunk.js": "/crai/static/js/973.714fb7fa.chunk.js",
+    "static/js/756.cd07e2ef.chunk.js": "/crai/static/js/756.cd07e2ef.chunk.js",
+    "static/js/340.668db0c0.chunk.js": "/crai/static/js/340.668db0c0.chunk.js",
+    "static/css/203.24d2ae0c.chunk.css": "/crai/static/css/203.24d2ae0c.chunk.css",
+    "static/js/203.99fe4236.chunk.js": "/crai/static/js/203.99fe4236.chunk.js",
+    "static/js/586.c68d2084.chunk.js": "/crai/static/js/586.c68d2084.chunk.js",
+    "static/media/IndiaClimateZones_1991_2020.png": "/crai/static/media/IndiaClimateZones_1991_2020.8cf920b51c607d5bf85a.png",
+    "static/media/climate_zones_legend.jpg": "/crai/static/media/climate_zones_legend.2a9a2a25dd06b3c60d09.jpg",
     "static/media/logo.png": "/crai/static/media/logo.720aebef3faefe563542.png",
+    "static/media/marker_icon.png": "/crai/static/media/marker_icon.e81a46d750801de7af46.png",
     "index.html": "/crai/index.html",
-    "main.20d6bfeb.css.map": "/crai/static/css/main.20d6bfeb.css.map",
-    "main.5722cc32.js.map": "/crai/static/js/main.5722cc32.js.map",
-    "575.54fb34fe.chunk.js.map": "/crai/static/js/575.54fb34fe.chunk.js.map",
-    "812.aa678ab6.chunk.js.map": "/crai/static/js/812.aa678ab6.chunk.js.map",
-    "695.a9da12ce.chunk.css.map": "/crai/static/css/695.a9da12ce.chunk.css.map",
-    "695.2e92d788.chunk.js.map": "/crai/static/js/695.2e92d788.chunk.js.map"
+    "main.816c2730.css.map": "/crai/static/css/main.816c2730.css.map",
+    "main.8f6450b6.js.map": "/crai/static/js/main.8f6450b6.js.map",
+    "793.398748ec.chunk.js.map": "/crai/static/js/793.398748ec.chunk.js.map",
+    "812.c64455a8.chunk.js.map": "/crai/static/js/812.c64455a8.chunk.js.map",
+    "135.42dcefa0.chunk.css.map": "/crai/static/css/135.42dcefa0.chunk.css.map",
+    "135.0974d1d9.chunk.js.map": "/crai/static/js/135.0974d1d9.chunk.js.map",
+    "680.97943f77.chunk.js.map": "/crai/static/js/680.97943f77.chunk.js.map",
+    "973.714fb7fa.chunk.js.map": "/crai/static/js/973.714fb7fa.chunk.js.map",
+    "756.cd07e2ef.chunk.js.map": "/crai/static/js/756.cd07e2ef.chunk.js.map",
+    "340.668db0c0.chunk.js.map": "/crai/static/js/340.668db0c0.chunk.js.map",
+    "203.24d2ae0c.chunk.css.map": "/crai/static/css/203.24d2ae0c.chunk.css.map",
+    "203.99fe4236.chunk.js.map": "/crai/static/js/203.99fe4236.chunk.js.map",
+    "586.c68d2084.chunk.js.map": "/crai/static/js/586.c68d2084.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20d6bfeb.css",
-    "static/js/main.5722cc32.js"
+    "static/css/main.816c2730.css",
+    "static/js/main.8f6450b6.js"
   ]
 }

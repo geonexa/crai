@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkceew=self.webpackChunkceew||[]).push([[812],{3812:(e,a,c)=>{c.r(a),c.d(a,{default:()=>d});c(5043);var s=c(579);const d=()=>(0,s.jsx)("div",{children:"DataDownloadPage"})}}]);
-//# sourceMappingURL=812.aa678ab6.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkceew=self.webpackChunkceew||[]).push([[680],{1680:(e,s,a)=>{a.r(s),a.d(s,{default:()=>r});a(5043);var c=a(834),n=a(579);const r=()=>(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)("div",{className:"main_page_container"}),(0,n.jsx)(c.A,{})]})}}]);
+//# sourceMappingURL=680.97943f77.chunk.js.map
