@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/crai/static/css/main.50ecc989.css",
-    "main.js": "/crai/static/js/main.1991a1aa.js",
+    "main.css": "/crai/static/css/main.716c869f.css",
+    "main.js": "/crai/static/js/main.0b98e35b.js",
     "static/js/793.0fcbdb7a.chunk.js": "/crai/static/js/793.0fcbdb7a.chunk.js",
     "static/js/812.c64455a8.chunk.js": "/crai/static/js/812.c64455a8.chunk.js",
     "static/css/135.42dcefa0.chunk.css": "/crai/static/css/135.42dcefa0.chunk.css",
-    "static/js/135.34f2af29.chunk.js": "/crai/static/js/135.34f2af29.chunk.js",
+    "static/js/135.f83511fc.chunk.js": "/crai/static/js/135.f83511fc.chunk.js",
     "static/js/680.97943f77.chunk.js": "/crai/static/js/680.97943f77.chunk.js",
     "static/js/973.714fb7fa.chunk.js": "/crai/static/js/973.714fb7fa.chunk.js",
     "static/js/756.cd07e2ef.chunk.js": "/crai/static/js/756.cd07e2ef.chunk.js",
@@ -19,12 +19,12 @@
     "static/media/logo.png": "/crai/static/media/logo.720aebef3faefe563542.png",
     "static/media/marker_icon.png": "/crai/static/media/marker_icon.e81a46d750801de7af46.png",
     "index.html": "/crai/index.html",
-    "main.50ecc989.css.map": "/crai/static/css/main.50ecc989.css.map",
-    "main.1991a1aa.js.map": "/crai/static/js/main.1991a1aa.js.map",
+    "main.716c869f.css.map": "/crai/static/css/main.716c869f.css.map",
+    "main.0b98e35b.js.map": "/crai/static/js/main.0b98e35b.js.map",
     "793.0fcbdb7a.chunk.js.map": "/crai/static/js/793.0fcbdb7a.chunk.js.map",
     "812.c64455a8.chunk.js.map": "/crai/static/js/812.c64455a8.chunk.js.map",
     "135.42dcefa0.chunk.css.map": "/crai/static/css/135.42dcefa0.chunk.css.map",
-    "135.34f2af29.chunk.js.map": "/crai/static/js/135.34f2af29.chunk.js.map",
+    "135.f83511fc.chunk.js.map": "/crai/static/js/135.f83511fc.chunk.js.map",
     "680.97943f77.chunk.js.map": "/crai/static/js/680.97943f77.chunk.js.map",
     "973.714fb7fa.chunk.js.map": "/crai/static/js/973.714fb7fa.chunk.js.map",
     "756.cd07e2ef.chunk.js.map": "/crai/static/js/756.cd07e2ef.chunk.js.map",
@@ -34,7 +34,7 @@
     "586.c68d2084.chunk.js.map": "/crai/static/js/586.c68d2084.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50ecc989.css",
-    "static/js/main.1991a1aa.js"
+    "static/css/main.716c869f.css",
+    "static/js/main.0b98e35b.js"
   ]
 }
