@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crai/static/css/main.716c869f.css",
-    "main.js": "/crai/static/js/main.0b98e35b.js",
+    "main.js": "/crai/static/js/main.5eeb33e2.js",
     "static/js/793.0fcbdb7a.chunk.js": "/crai/static/js/793.0fcbdb7a.chunk.js",
     "static/js/812.c64455a8.chunk.js": "/crai/static/js/812.c64455a8.chunk.js",
     "static/css/135.42dcefa0.chunk.css": "/crai/static/css/135.42dcefa0.chunk.css",
@@ -20,7 +20,7 @@
     "static/media/marker_icon.png": "/crai/static/media/marker_icon.e81a46d750801de7af46.png",
     "index.html": "/crai/index.html",
     "main.716c869f.css.map": "/crai/static/css/main.716c869f.css.map",
-    "main.0b98e35b.js.map": "/crai/static/js/main.0b98e35b.js.map",
+    "main.5eeb33e2.js.map": "/crai/static/js/main.5eeb33e2.js.map",
     "793.0fcbdb7a.chunk.js.map": "/crai/static/js/793.0fcbdb7a.chunk.js.map",
     "812.c64455a8.chunk.js.map": "/crai/static/js/812.c64455a8.chunk.js.map",
     "135.42dcefa0.chunk.css.map": "/crai/static/css/135.42dcefa0.chunk.css.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.716c869f.css",
-    "static/js/main.0b98e35b.js"
+    "static/js/main.5eeb33e2.js"
   ]
 }
